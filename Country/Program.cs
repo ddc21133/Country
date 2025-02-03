@@ -8,13 +8,12 @@ class Program
 
 {
 
-    // Step 3: Adding your details
 
-    // Name: Your Name
+    // Name: Dorien Carter
 
-    // Course: Your Course Number
+    // Course: CIS261
 
-    // Lab: Country Lab
+    // Lab: Country
 
  
 
